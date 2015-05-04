@@ -1,2 +1,2 @@
-# phonegap-camera2
+# phonegap-camera1
 Camera
